@@ -1,0 +1,15 @@
+# Editor                                                                                                                                                                              │ │
+.idea/                                                                                                                                                                                │ │
+.vscode/                                                                                                                                                                              │ │
+
+# Build                                                                                                                                                                               │ │
+node_modules/                                                                                                                                                                         │ │
+dist/                                                                                                                                                                                 │ │
+*.log
+
+# Agent settings (local)
+.claude/settings.local.json
+.agents/settings.local.json
+
+# macOS                                                                                                                                                                               │ │
+.DS_Store
